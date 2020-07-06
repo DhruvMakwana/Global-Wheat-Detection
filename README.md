@@ -43,4 +43,6 @@ We have trained yolov3 tiny, yolov3, yolov4 and tensorflow api object detection 
 
 ## Results
 
-With yolov4 over 4000 iterations we get 65% accuracy. 
+Tensorflow object detection API with InceptionV2 perform well and gave public score 0.5272.
+
+YOLOV4 generated public score 0.4962.
